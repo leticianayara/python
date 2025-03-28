@@ -1,0 +1,3 @@
+Usar o Windows Powershell pro python
+Usar o VSCode
+
