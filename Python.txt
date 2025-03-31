@@ -54,3 +54,7 @@ converção
 	float() - converte para ponto flutuante
 	bool() - converte para booleanos
 	str() - converte para string
+
+operadores logicos
+	+ - em str ele concatena as palavras
+	* - em str ele repete as palavras n vezes
