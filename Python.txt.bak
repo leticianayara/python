@@ -31,5 +31,15 @@ print - imprime algo em tela
 string - caracteres
 	' '(aspas simples) - imprime o que esta dentro
 	" "(aspas duplas) - imprime o que esta dentro
-	\(escape) - imprime aspas dentro de aspas
+	\(escape) - imprime aspas dentro de aspas 
 	r - imprime a expressao regular que esta dentro das aspas
+
+type() - retorna o tipo do objeto (int, float, str, bool)
+
+numeros
+	int - inteiros
+	float - ponto flutuante
+
+sim/nao
+	True - verdadeiro
+	False - 

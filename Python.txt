@@ -34,7 +34,13 @@ string - caracteres
 	\(escape) - imprime aspas dentro de aspas 
 	r - imprime a expressao regular que esta dentro das aspas
 
+type() - retorna o tipo do objeto (int, float, str, bool)
+
 numeros
 	int - inteiros
 	float - ponto flutuante
-	type() - retorna o tipo do objeto (int, float, str)
+
+sim/nao
+	True - verdadeiro
+	False - falso
+	
