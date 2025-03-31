@@ -44,3 +44,13 @@ sim/nao
 	True - verdadeiro
 	False - falso
 	
+Aula06 - erro da linha 7 
+	File "c:\temp\python\projeto\aulas\aula06\aula6.py", line 7, in <module> 
+		print('1' + 1) 
+		TypeError: can only concatenate str (not "int") to str
+
+converção
+	int() - converte para inteiros
+	float() - converte para ponto flutuante
+	bool() - converte para booleanos
+	str() - converte para string

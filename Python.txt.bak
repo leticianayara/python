@@ -42,4 +42,5 @@ numeros
 
 sim/nao
 	True - verdadeiro
-	False - 
+	False - falso
+	
