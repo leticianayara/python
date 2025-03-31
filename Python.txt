@@ -60,3 +60,4 @@ operadores logicos
 	* - em str ele repete as palavras n vezes
 
 elipse (...) - roda normal para calculos do meio do caminho
+"f-strings" - f"<o que interessa>"

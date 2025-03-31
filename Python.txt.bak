@@ -58,3 +58,5 @@ converção
 operadores logicos
 	+ - em str ele concatena as palavras
 	* - em str ele repete as palavras n vezes
+
+elipse (...) - roda normal para calculos do meio do caminho
