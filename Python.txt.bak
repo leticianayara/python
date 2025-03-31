@@ -1,3 +1,25 @@
 Usar o Windows Powershell pro python
-usar o VSCode
+Usar o VSCode
 
+python --version - versao do python 
+
+Execute o powershell como administrador e mude o seguinte
+	Set-ExecutionPolicy AllSigned -Force
+assim sera efetuado de fato a sua mudança
+
+
+.\venv\Scripts\activate - ativar o ambiente virtual
+
+python -m venv venv - executa a biblioteca do python venv e cria o ambiente venv
+
+Settings -> Keyboard Shortcuts - atalhos no VSCode
+
+python <nome do arquivo py que ira rodar agora> - executa o arquivo
+
+
+
+Python NÃO tem comentarios de multiplas linhas, mas ele aceita o DocString (""" - aspas triplas abrindo e fechando) como "comentario" de multiplas linhas 
+
+# - cria um comentario da linha
+""" """ - cria um DocString nas linhas
+''' ''' - cria um DocString nas linhas
