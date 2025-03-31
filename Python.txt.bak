@@ -23,3 +23,4 @@ Python NÃO tem comentarios de multiplas linhas, mas ele aceita o DocString ("""
 # - cria um comentario da linha
 """ """ - cria um DocString nas linhas
 ''' ''' - cria um DocString nas linhas
+

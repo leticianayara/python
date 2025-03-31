@@ -24,3 +24,7 @@ Python NÃO tem comentarios de multiplas linhas, mas ele aceita o DocString ("""
 """ """ - cria um DocString nas linhas
 ''' ''' - cria um DocString nas linhas
 
+print - imprime algo em tela
+	sep = define o separador entre as palavras
+	end = define como cada print ira terminar (\r\n, \n , ##, ##\n, \n##)
+	
