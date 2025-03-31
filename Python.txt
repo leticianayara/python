@@ -28,3 +28,8 @@ print - imprime algo em tela
 	sep = define o separador entre as palavras
 	end = define como cada print ira terminar (\r\n, \n , ##, ##\n, \n##)
 	
+string - caracteres
+	' '(aspas simples) - imprime o que esta dentro
+	" "(aspas duplas) - imprime o que esta dentro
+	\(escape) - imprime aspas dentro de aspas
+	r - imprime a expressao regular que esta dentro das aspas
