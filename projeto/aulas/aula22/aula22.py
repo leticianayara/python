@@ -9,8 +9,8 @@
 # Tambem existe o tipo None que é
 # usado para representar um nao valor
 
-# entrada = input('[E]ntrar [S]air: ')
-# senha_permidica = '123456'
+entrada = input('[E]ntrar [S]air: ')
+senha_permidica = '123456'
 
 if entrada == 'E' or entrada == 'e':
    senha_digitada = input('Senha: ')
