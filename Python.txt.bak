@@ -53,7 +53,7 @@ converção
 	int() - converte para inteiros
 	float() - converte para ponto flutuante
 	bool() - converte para booleanos
-	str() - converte para string
+	str() - converte para stringig
 
 operadores logicos
 	+ - em str ele concatena as palavras
@@ -61,3 +61,12 @@ operadores logicos
 
 elipse (...) - roda normal para calculos do meio do caminho
 "f-strings" - f"<o que interessa>"
+format - formatar a string
+
+Aula 13 - erro fora do tamanho
+	Traceback (most recent call last):
+  File "c:\temp\python\projeto\aulas\aula14\aula14.py", line 18, in <module>
+    formato = 'a={} b={} c={:.2f} {}'.format(a, b, c)
+IndexError: Replacement index 3 out of range for positional args tuple
+
+

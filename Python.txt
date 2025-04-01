@@ -53,7 +53,7 @@ converção
 	int() - converte para inteiros
 	float() - converte para ponto flutuante
 	bool() - converte para booleanos
-	str() - converte para string
+	str() - converte para stringig
 
 operadores logicos
 	+ - em str ele concatena as palavras
@@ -69,4 +69,8 @@ Aula 13 - erro fora do tamanho
     formato = 'a={} b={} c={:.2f} {}'.format(a, b, c)
 IndexError: Replacement index 3 out of range for positional args tuple
 
+
+Quando vamos imprimir ma variavel e queremos imprimir o nome do atribudo dela, colocamos {<nome do atributo>=}, exemplo
+	nome = input('Qual seu nome? ')
+	print(f'O seu nome é {nome=}')
 
