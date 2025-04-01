@@ -70,3 +70,7 @@ Aula 13 - erro fora do tamanho
 IndexError: Replacement index 3 out of range for positional args tuple
 
 
+Quando vamos imprimir ma variavel e queremos imprimir o nome do atribudo dela, colocamos {<nome do atributo>=}, exemplo
+	nome = input('Qual seu nome? ')
+	print(f'O seu nome é {nome=}')
+
