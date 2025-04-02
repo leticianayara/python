@@ -74,3 +74,4 @@ Quando vamos imprimir ma variavel e queremos imprimir o nome do atribudo dela, c
 	nome = input('Qual seu nome? ')
 	print(f'O seu nome é {nome=}')
 
+if/elif/else - todos são seguidos de :, o conteudo é indentado pra dentro por um tab.
