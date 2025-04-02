@@ -24,4 +24,3 @@ while contador <= 100:
         break
 
 print('Acabou')
-
