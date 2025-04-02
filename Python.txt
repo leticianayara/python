@@ -76,3 +76,5 @@ Quando vamos imprimir ma variavel e queremos imprimir o nome do atribudo dela, c
 
 if/elif/else - todos são seguidos de :, o conteudo é indentado pra dentro por um tab.
 try/except - todos são seguidos de :, o conteudo é indentado pra dentro por um tab.
+while - todos são seguidos de :, o conteudo é indentado pra dentro por um tab.
+for - todos são seguidos de :, o conteudo é indentado pra dentro por um tab.
